@@ -4,3 +4,4 @@ Split pane: `Cmd-k + <arrow key>`
 
 Change focus between panes: `Cmd-k  + Cmd-<arrow-key>`
 
+Show current file in tree view: `Cmd-shift-\`
